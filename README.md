@@ -14,9 +14,13 @@ The network is composed of:
 	<li>Package size/weight specifications</li>
 </ul>
 
+Network incentives could work similar to bitcoin, paying processing fees to people to host charging/routing stations on their property.  As incentives develop, networks of scale will build autonomous vehicle infrastructure in an efficient way.
+
 Initial Project
 ==================
 Build a common charging and vertical take off and landing system for any common UAV. 
+
+Enable immediate need to automate data collection/image capture via a general system.
 
 Composed of:
 <ul>
@@ -26,3 +30,4 @@ Composed of:
 	<li>Software APIs to build autonomous scheduling</li>
 </ul>
 
+Please comment with development suggestions or ways to get involved, thanks!
