@@ -2,14 +2,16 @@ Open Delivery Network
 ===================
 
 <p>The Open Delivery Network is a set of public protocols to create an autonomous vehicle infrastructure for logistics.</p>
-<p>We see the most viable way of increasing the efficiency of logisitics and enable and empowering the most people in the world.  An open network and compatible set of standards could be a better system than an Amazon/Google controlled network. </p>
 
-The network is composed of 3 parts.
+<p>We believe the most viable way of increasing the efficiency of logisitics and enabling and empowering the most people in the world is through an open network for logistics where massive amounts of people can build on top of the protocols to create an ecosystem of innovation similar to that of the internet.  An open network and compatible set of standards could be a better system than an Amazon/Google controlled network. </p>
+
+The network is composed of:
 
 <ul>
 	<li>Network of charging/routing/package handling stations</li>
 	<li>Decentralized routing protocol - think bitcoin with charging/routing stations equivelent to miners</li>
-
+	<li>Network connected autonomous vehicles</li>
+	<li>Package size/weight specifications</li>
 </ul>
 
 Initial Project
